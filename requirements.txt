@@ -1,0 +1,22 @@
+dd~=0.5.5
+numpy~=1.17.5
+keras==2.4.3
+keras-applications
+keras-preprocessing
+matplotlib~=3.3.1
+scikit-image
+tensorflow==2.2.0
+tensorflow-federated
+tensorflow-estimator==2.2.0
+sudo apt-get install tcl-dev tk-dev python-tk python3-tk
+scipy~=1.5.2
+sklearn~=0.0
+pypoman~=0.5.4
+foolbox==3.0.0b1
+eagerpy~=0.25.2
+pandas~=1.0.3
+seaborn~=0.10.1
+albumentations
+h5py~=2.8.0
+scikit-learn~=0.23.2
+plotly~=4.13.0
