@@ -1,16 +1,24 @@
 # Into the Unknown
 
 This repository contains the implementation and data used in the paper [Into the Unknown: Active Monitoring of Neural Networks](https://arxiv.org/pdf/2009.06429), published at [RV 2021](https://uva-mcps-lab.github.io/RV21/).
-To cite the paper, use:
+To cite the work, you can use:
 
 ```
 @inproceedings{intotheunknown21,
   author    = {Anna Lukina and
                Christian Schilling and
                Thomas A. Henzinger},
-  title     = {Into the unknown: Active monitoring of neural networks},
-  booktitle = {RV},
-  year      = {2021}
+  editor    = {Lu Feng and
+               Dana Fisman},
+  title     = {Into the Unknown: Active Monitoring of Neural Networks},
+  booktitle = {{RV}},
+  series    = {LNCS},
+  volume    = {12974},
+  pages     = {42--61},
+  publisher = {Springer},
+  year      = {2021},
+  url       = {https://doi.org/10.1007/978-3-030-88494-9\_3},
+  doi       = {10.1007/978-3-030-88494-9\_3}
 }
 ```
 
