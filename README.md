@@ -25,6 +25,7 @@ To cite the work, you can use:
 # Installation
 
 We use Python 3.6 but other Python versions may work as well.
+The easiest is to use a conda environment. 
 The package requirements that need to be installed are found in the file `requirements.txt`.
 
 Since the datasets are large and have mostly been used in our previous work, we do not include most of them here.
